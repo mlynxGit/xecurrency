@@ -1,0 +1,25 @@
+{
+  "name": "xecurrency-lambda",
+  "version": "1.0.0",
+  "description": "\"# xecurrency\"",
+  "main": "rate.js",
+  "dependencies": {
+    "chrome-aws-lambda": "^5.3.1",
+    "puppeteer-core": "^5.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlynxGit/xecurrency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlynxGit/xecurrency/issues"
+  },
+  "homepage": "https://github.com/mlynxGit/xecurrency#readme"
+}
